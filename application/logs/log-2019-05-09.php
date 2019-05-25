@@ -1,0 +1,21 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-05-09 19:25:44 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' C:\xampp\htdocs\lms\system\core\CodeIgniter.php 532
+ERROR - 2019-05-09 19:33:38 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' C:\xampp\htdocs\lms\system\core\CodeIgniter.php 532
+ERROR - 2019-05-09 19:41:17 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' C:\xampp\htdocs\lms\system\core\CodeIgniter.php 532
+ERROR - 2019-05-09 19:43:02 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' C:\xampp\htdocs\lms\system\core\CodeIgniter.php 532
+ERROR - 2019-05-09 20:37:22 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' C:\xampp\htdocs\lms\system\core\CodeIgniter.php 532
+ERROR - 2019-05-09 20:38:17 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' C:\xampp\htdocs\lms\system\core\CodeIgniter.php 532
+ERROR - 2019-05-09 20:42:16 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' C:\xampp\htdocs\lms\system\core\CodeIgniter.php 532
+ERROR - 2019-05-09 20:42:34 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' C:\xampp\htdocs\lms\system\core\CodeIgniter.php 532
+ERROR - 2019-05-09 20:42:53 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' C:\xampp\htdocs\lms\system\core\CodeIgniter.php 532
+ERROR - 2019-05-09 20:50:31 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' C:\xampp\htdocs\lms\system\core\CodeIgniter.php 532
+ERROR - 2019-05-09 20:50:49 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' C:\xampp\htdocs\lms\system\core\CodeIgniter.php 532
+ERROR - 2019-05-09 20:50:55 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' C:\xampp\htdocs\lms\system\core\CodeIgniter.php 532
+ERROR - 2019-05-09 20:53:27 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' C:\xampp\htdocs\lms\system\core\CodeIgniter.php 532
+ERROR - 2019-05-09 21:03:10 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' C:\xampp\htdocs\lms\system\core\CodeIgniter.php 532
+ERROR - 2019-05-09 21:03:10 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' C:\xampp\htdocs\lms\system\core\CodeIgniter.php 532
+ERROR - 2019-05-09 21:03:19 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' C:\xampp\htdocs\lms\system\core\CodeIgniter.php 532
+ERROR - 2019-05-09 21:03:19 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' C:\xampp\htdocs\lms\system\core\CodeIgniter.php 532
+ERROR - 2019-05-09 21:04:45 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' C:\xampp\htdocs\lms\system\core\CodeIgniter.php 532
+ERROR - 2019-05-09 21:04:45 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'index' C:\xampp\htdocs\lms\system\core\CodeIgniter.php 532
